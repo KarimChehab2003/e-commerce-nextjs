@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     siteName: "Next.js E-Commerce Store",
     images: [
       {
-        url: "/og-image.png",
+        url: "https://e-commerce-nextjs-karim-chehab.vercel.app/og-image.png",
         alt: "Next.js E-Commerce Store",
       },
     ],
